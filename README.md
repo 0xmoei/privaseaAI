@@ -35,9 +35,9 @@ mv $HOME/privasea/config/UTC--*  ./wallet_keystore
 ![image](https://github.com/user-attachments/assets/727c834e-bbc4-47fd-acda-35795ce380b6)
 
 3. Enter your node address saved in previous steps and set up your node
-
+* `KEYSTORE_PASSWORD=`: Replace `password` with your keystore password into the command then execute it
 ```
 docker run  -d   -v "$HOME/privasea/config:/app/config" \
-  -e KEYSTORE_PASSWORD=  \
+  -e KEYSTORE_PASSWORD=password  \
   privasea/acceleration-node-beta:latest
 ```
