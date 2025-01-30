@@ -104,15 +104,15 @@ docker logs -f CONTAINER_ID
 ```
 
 ### 7. Stake to your Node
-1. Get faucet [here](https://deepsea-beta.privasea.ai/deepSeaFaucet) for EVM wallet connected to the dashbaord
+**1. Get faucet [here](https://deepsea-beta.privasea.ai/deepSeaFaucet) for EVM wallet connected to the dashbaord**
 * You will receive 1 $TPRAI on Arbitrum Sepolia
 * Do not claim faucet with multiple wallets, final rewards are based on Node uptime and performance, not your staked tokens.
 
-2. Click your node "Details" and Stake 1 $TPRAI on it
+**2. Click your node "Details" and Stake 1 $TPRAI on it**
 
 ![Screenshot_600](https://github.com/user-attachments/assets/8dea9953-99b7-4546-bbd8-1f1dff526215)
 
-3. After a few hours, Pre-staking will change to Staked and you start receiving rewards
+**3. After a few hours, Pre-staking will change to Staked and you start receiving rewards**
 
 ![image](https://github.com/user-attachments/assets/5d73dd2d-3b3a-48fd-b428-5015dbaaaee8)
 
