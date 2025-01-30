@@ -3,7 +3,7 @@ Follow this guide to set up and operate Privanetix node
 * 1% total supply is allocated privasea node contributors.
 * Leaderboard ends in 30 days.
 * The node leaderboard is based solely on device performance and node uptime; staked tokens do not influence rankings.
-* Make sure you join ImHuman Application at the end of running the node
+* Make sure you join [ImHuman Application](https://github.com/0xmoei/privaseaAI/blob/main/README.md#8-join-imhuman-application-built-by-privasea) at the end of running the node
 
 ![image](https://github.com/user-attachments/assets/749bd88b-94bf-4cea-98b8-342a4e2124ab)
 
